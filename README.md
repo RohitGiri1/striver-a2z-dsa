@@ -6,6 +6,7 @@
 
 ![DSA](https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Sheet](https://img.shields.io/badge/Sheet-Striver%20A2Z-red?style=for-the-badge)
 
 </div>
@@ -27,7 +28,7 @@ Every folder here represents a **topic**, and every file inside is a **problem s
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | Learning the Basics | ⬜ |
+| 01 | Learning the Basics | 🔄 |
 | 02 | Sorting Algorithms | ⬜ |
 | 03 | Arrays | ⬜ |
 | 04 | Binary Search | ⬜ |
@@ -47,7 +48,6 @@ Every folder here represents a **topic**, and every file inside is a **problem s
 | 18 | Strings (Advanced) | ⬜ |
 
 > ✅ = Completed &nbsp;|&nbsp; 🔄 = In Progress &nbsp;|&nbsp; ⬜ = Not Started
-> *(Update this table as you go!)*
 
 ---
 
@@ -90,7 +90,7 @@ Space Complexity: O(?)
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python
+- **Language:** Python 🐍
 - **Platform:** LeetCode, GeeksforGeeks, Coding Ninjas
 - **Reference:** [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course-sheet-2)
 
