@@ -6,7 +6,6 @@
 
 ![DSA](https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-C++%2FJava-orange?style=for-the-badge)
 ![Sheet](https://img.shields.io/badge/Sheet-Striver%20A2Z-red?style=for-the-badge)
 
 </div>
@@ -91,7 +90,7 @@ Space Complexity: O(?)
 
 ## 🛠️ Tech Stack
 
-- **Language:** C++ / Java *(update as per your preference)*
+- **Language:** Python
 - **Platform:** LeetCode, GeeksforGeeks, Coding Ninjas
 - **Reference:** [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course-sheet-2)
 
