@@ -7,10 +7,18 @@ Space Complexity: O(1)   -> No extra space is used
 """
 
 def pattern(n):
-    for i in range(1,n):
+    for i in range(1,n+1):
         for j in range(0,i):
             print("*",end = "")
 
         print()
 
+# Test
 pattern(5)
+
+# Output:
+# *
+# **
+# ***
+# ****
+# *****

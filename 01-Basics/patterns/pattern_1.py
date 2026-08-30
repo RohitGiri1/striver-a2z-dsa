@@ -5,7 +5,7 @@ Time Complexity: O(n^2)  -> outer loop n times, inner loop n times
 Space Complexity: O(1)   -> No extra space is used
 """
 
-def pattern1(n):
+def pattern(n):
     for i in range(n):
         for j in range(n):
             print("*", end="")
@@ -13,7 +13,7 @@ def pattern1(n):
 
 
 # Test
-pattern1(5)
+pattern(5)
 
 # Output:
 # *****
