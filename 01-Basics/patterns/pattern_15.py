@@ -1,7 +1,7 @@
 
 '''
 Problem - Pattern 15 : Inverted Alphabet Pyramid
-Link :
+Link : https://takeuforward.org/plus/dsa/problems/pattern-15
 Time Complexity : O(n^2)
 SpaceComplexity : O(1)
 '''

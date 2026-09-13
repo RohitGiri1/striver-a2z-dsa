@@ -1,7 +1,7 @@
 
 '''
 Problem - Pattern 14 : Alphabet Pyramid
-Link :
+Link : https://takeuforward.org/plus/dsa/problems/pattern-14
 Time Complexity : O(n^2)
 SpaceComplexity : O(1)
 '''
