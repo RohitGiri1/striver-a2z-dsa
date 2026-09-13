@@ -1,32 +1,30 @@
 """
 Problem 10 - Diamond
-Link : https://takeuforward.org/plus/dsa/problems/pattern-9
+Link : https://takeuforward.org/plus/dsa/problems/pattern-10
 Time Complexity : O(n^2)
 Space Complexity : O(1)
 """
+
 def pattern(n):
-    for i in range(n):
-        for j in range(n-1-i):
-            print(" ",end="")
-        for k in range(i*2+1):
+    for i in list(range(n)) + list(range(n-1,-1)):
+        for j in range(i+1):
             print("*",end="")
         print()
-    for i in range(n):
-        for j in range (i):
-            print(" ",end="")
-        for k in range((n-i)*2-1):
-            print("*",end = "")
+    for k in range(n-1):
+        for l in range(n-k-1):
+            print("*",end="")
         print()
-        
+
 # Test
-pattern(4)
+pattern(5)
 
 # Output
-#    *
-#   ***
-#  *****
-# *******
-# *******
-#  *****
-#   ***
-#    *
+# *          
+# **         
+# ***       
+# ****       
+# *****      
+# ****       
+# ***        
+# **         
+# *          

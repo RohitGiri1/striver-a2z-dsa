@@ -1,5 +1,5 @@
 """
-Problem 9 - Diamond
+Problem 9 - Double Diamond
 Link : https://takeuforward.org/plus/dsa/problems/pattern-9
 Time Complexity : O(n^2)
 Space Complexity : O(1)
@@ -23,7 +23,7 @@ pattern(4)
 
 # Output
 #    *
-#   **
+#   ***
 #  *****
 # *******
 # *******
