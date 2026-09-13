@@ -102,7 +102,7 @@ Space Complexity: O(?)
 
 | Total Problems | Solved | Remaining |
 |:---:|:---:|:---:|
-| 450+ | 0 | 450+ |
+| 450+ | 9 | 450+ |
 
 </div>
 
