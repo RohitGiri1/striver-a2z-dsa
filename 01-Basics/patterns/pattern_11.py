@@ -1,5 +1,5 @@
 """
-Problem 11 - Diamond
+Problem 11 - Binary Triangle Pattern
 Link : https://takeuforward.org/plus/dsa/problems/pattern-11
 Time Complexity : O(n^2)
 Space Complexity : O(1)
